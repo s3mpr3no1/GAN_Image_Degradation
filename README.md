@@ -27,7 +27,7 @@ Change the following list to include the desired degradations
 
 	Execute_Experiment.py	Line 29
 
-Change the following list to include the desired seeds (should be [21, 42, 123, 666, 420])
+Change the following list to include the desired seeds 
 
 	Execute_Experiment.py	Line 33
 

@@ -1,4 +1,4 @@
-# GAN__Image_Degradation
+# GAN Image Degradation
 Exploration of GAN resilience to training set degradation
 
 ## Steps 

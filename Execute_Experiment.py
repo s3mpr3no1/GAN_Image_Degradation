@@ -5,7 +5,7 @@ import numpy as np
 import random as python_random
 import tensorflow as tf
 from keras.datasets.cifar10 import load_data
-from Unpickle import load_data_new
+# from Unpickle import load_data_new
 from ArtData import load_data_art
 
 np.random.seed(123)
